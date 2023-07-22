@@ -33,7 +33,7 @@ On the way to becoming a backend development engineer.
 - Python
 - Java
 - Vue
-- Command_Block(really? yeah!🤯)
+- Command Block(really? yeah!🤯)
 
 ### Less professional:
 
