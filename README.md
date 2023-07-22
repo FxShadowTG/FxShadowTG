@@ -1,10 +1,20 @@
 <p align="center"><a href="https://anuraghazra.github.io">
 
-Hello, I'm FxShadow. a moder and golanger!</p>
+Hello, I'm FxShadow. a moder and golanger!🖋</p>
 
 <br />
 
 On the way to becoming a backend development engineer
+
+<div align="center">
+    <a href="https://space.bilibili.com/76969706/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+
+​    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+
+​    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>        &emsp;
+
+​    <a href="https://mc.163.com/dev/index.html"><img src="https://img.shields.io/static/v1?label=71837&message=MC订阅数&color=green"/></a>&emsp;
+</div>
 
 **About me**
 
@@ -13,11 +23,18 @@ On the way to becoming a backend development engineer
 - 🔜 Currently striving to develop towards the backend of Golang
 - 💬 Contact me, Tencent QQ: 1292492939
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### Main programming languages:Main language proficiency:
+
+- Golang
+- Python
+- Java
+- Vue
+- Command_Block(really? yeah!🤯)
+
+### Less professional language:
+
+- HTML & CSS
+- JavaScript
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FxShadowTG&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxShadowTG&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -29,14 +46,4 @@ On the way to becoming a backend development engineer
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FxShadowTG&repo=TGws-chat&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/FxShadow">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
