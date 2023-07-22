@@ -40,7 +40,7 @@ On the way to becoming a backend development engineer.
 - HTML & CSS
 - JavaScript
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FxShadowTG&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxShadowTG&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/FxShadowTG"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FxShadowTG&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FxShadowTG's github stats" /></a> | <a href="https://github.com/FxShadowTG"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxShadowTG&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
