@@ -14,11 +14,9 @@ On the way to becoming a backend development engineer.
 
   <div align="center">
 
-![](D:\EdgeDownload\assets/studioLogo.png)
-
 ​    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/76969706/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <img src="https://img.shields.io/badge/71587-MC订阅数-green"/>
   </div>
 
