@@ -13,7 +13,7 @@ On the way to becoming a backend development engineer.
 
 ​    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
 
-​    <a href="https://mc.163.com/dev/index.html"><img src="https://img.shields.io/static/v1?label=71837&message=MC订阅数&color=green"/></a>&emsp;
+​    <a href="https://mc.163.com/dev/index.html"><img src="https://img.shields.io/badge/71587-MC订阅数-green"/></a>&emsp;
 </div>
 
 **About me**
