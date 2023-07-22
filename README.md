@@ -1,17 +1,17 @@
 <p align="center"><a href="https://anuraghazra.github.io">
 
-Hello, I'm FxShadow. a moder and golanger!🖋</p>
+😶‍🌫️Hello, I'm FxShadow. a moder and golanger!😶‍🌫️</p>
 
 <br />
 
-On the way to becoming a backend development engineer
+On the way to becoming a backend development engineer.
 
 <div align="center">
     <a href="https://space.bilibili.com/76969706/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
 
-​    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+​    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
 
-​    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>        &emsp;
+​    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
 
 ​    <a href="https://mc.163.com/dev/index.html"><img src="https://img.shields.io/static/v1?label=71837&message=MC订阅数&color=green"/></a>&emsp;
 </div>
@@ -23,7 +23,7 @@ On the way to becoming a backend development engineer
 - 🔜 Currently striving to develop towards the backend of Golang
 - 💬 Contact me, Tencent QQ: 1292492939
 
-### Main programming languages:Main language proficiency:
+### Main language proficiency:
 
 - Golang
 - Python
@@ -31,7 +31,7 @@ On the way to becoming a backend development engineer
 - Vue
 - Command_Block(really? yeah!🤯)
 
-### Less professional language:
+### Less professional:
 
 - HTML & CSS
 - JavaScript
