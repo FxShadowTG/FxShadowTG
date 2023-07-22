@@ -1,20 +1,24 @@
 <p align="center"><a href="https://anuraghazra.github.io">
 
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+
 😶‍🌫️Hello, I'm FxShadow. a moder and golanger!😶‍🌫️</p>
 
 <br />
 
 On the way to becoming a backend development engineer.
 
-<div align="center">
+  <div align="center">
+
+​    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/76969706/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-
-​    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-
-​    <a href="https://blog.csdn.net/FxShadow/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-
-​    <a href="https://mc.163.com/dev/index.html"><img src="https://img.shields.io/badge/71587-MC订阅数-green"/></a>&emsp;
-</div>
+    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <img src="https://img.shields.io/badge/71587-MC订阅数-green"/>
+  </div>
 
 **About me**
 
