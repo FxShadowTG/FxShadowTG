@@ -45,9 +45,9 @@ On the way to becoming a backend development engineer.
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/FxShadowTG/StarLight-Cloud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FxShadowTG&repo=starLight-cloud&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FxShadowTG&repo=TGws-chat&theme=buefy" />
+<a href="https://github.com/FxShadowTG/Minecraft-Mod-BlindBox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FxShadowTG&repo=Minecraft-Mod-BlindBox&theme=buefy" />
 </a>
