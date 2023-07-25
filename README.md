@@ -2,7 +2,7 @@
 
   <div align="center">
     <a href="https://github.com/FxShadowTG">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello! I am FxShadow!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22);Hello! I am FxShadow!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
