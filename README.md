@@ -23,7 +23,7 @@ On the way to becoming a backend development engineer.
 **About me**
 
 - 🎮 As a developer working on game mods on NetEase in China
-- 📈 The total download volume of gameplay resources in Minecraft China version has exceeded 2,000,000, and it has been subscribed by over 100,000 fans
+- 📈 The total download volume of gameplay resources in Minecraft China version has exceeded 15,000,000, and it has been subscribed by over 600,000 fans
 - 🔜 Currently striving to develop towards the backend of Golang
 - 💬 Contact me, Tencent QQ: 1292492939
 
